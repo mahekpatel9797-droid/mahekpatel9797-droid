@@ -1,4 +1,4 @@
-#Hello I'm Mahek Patel ✨
+Hello I'm Mahek Patel ✨
 
 Frontend Developer | MCA Student | React & TypeScript Enthusiast
 
